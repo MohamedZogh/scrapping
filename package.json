@@ -1,0 +1,17 @@
+{
+  "name": "WebScrapping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mohamed Zoghlami",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "cheerio": "^1.0.0-rc.3",
+    "esm": "^3.2.25",
+    "inquirer": "^7.3.3",
+    "open": "^7.3.0"
+  },
+  "scripts": {
+    "scrap": "node scrapRedit.js"
+  }
+}
